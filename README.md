@@ -1,6 +1,6 @@
 # Use Searchable State
 
-This hook is for creating searchalbe states.
+This hook is for creating searchable states.
 
 ## Usage
 
